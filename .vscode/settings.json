@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+    "debug.terminal.clearBeforeReusing": true,
+    "accessibility.verbosity.terminal": false,
+    "code-runner.runInTerminal": true
+}
